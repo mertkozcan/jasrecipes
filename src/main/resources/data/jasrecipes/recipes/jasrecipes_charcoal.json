@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "jasrecipes:tinycharcoal"
+    }
+  },
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:stick"
+  },
+  "result": "jasrecipes:tinycharcoal",
+  "cookingtime": 100
+}

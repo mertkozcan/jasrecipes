@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "item": "jasrecipes:tinycharcoal",
+    "count": 2
+  },
+  "cookingtime": 200
+}
