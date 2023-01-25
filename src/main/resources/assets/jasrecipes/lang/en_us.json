@@ -2,5 +2,10 @@
   "itemGroup.jasrecipes": "JAS Recipes",
 
   "item.jasrecipes.tinycharcoal": "Tiny Charcoal",
-  "item.jasrecipes.tinycoal": "Tiny Coal"
+  "item.jasrecipes.tinycoal": "Tiny Coal",
+  "item.jasrecipes.flintpickaxe": "Flint Pickaxe",
+  "item.jasrecipes.flinthoe": "Flint Hoe",
+  "item.jasrecipes.flintaxe": "Flint Axe",
+  "item.jasrecipes.flintshovel": "Flint Shovel",
+  "item.jasrecipes.flintsword": "Flint Sword"
 }
